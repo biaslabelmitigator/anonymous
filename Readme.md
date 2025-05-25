@@ -1,6 +1,6 @@
 **Replicate Package** - https://drive.google.com/drive/folders/1yEyeyngSLRMc_MOjVPdAKJ08d72icADM 
 
-It includes the code and synthetic datasets used to evaluate FairSMOTE and FairGenerate, enabling replication of the results.
+It includes the code of proposed approach and synthetic datasets used to evaluate FairSMOTE and FairGenerate, enabling replication of the results.
 
 ********************************************************************************************************
 <h2> Datasets</h2>
