@@ -23,7 +23,7 @@ In this study, we utilized nine publicly available datasets. All datasets are pr
 
 <h2> Baselines </h2>
 
-** Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal**
+**FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal**
 FairGenerate is a pre-processing method that uses a differential evolution-based approach to generate synthetic data samples, aiming to balance the distribution of sensitive attributes and class labels in the dataset. It identifies and removes biased labels both before and after the synthetic data generation process to ensure consistency and fairness.
 We use the code they provided in the code repository:  https://github.com/xyz745/FairGenerate
 
